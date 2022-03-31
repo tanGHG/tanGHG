@@ -1,0 +1,3 @@
+-- hi I am a novice programmer,But I will try become a veteran
+-- I will upload a project,As my starting point
+-- Keep try! Thank
